@@ -1,0 +1,57 @@
+table{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 54%;
+    left: 42%;
+}
+
+tr{ 
+    background-color:  #F04F4F;
+    justify-content: space-around;
+}
+
+#ads{
+    position: absolute;
+    top: 47%;
+    left: 35%;
+
+}
+
+td{ 
+    position: relative;
+    top: 13%;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+    font-size: 15pt;
+}
+
+#edit{
+    position: absolute;
+    width: 16%;
+    left: 55%;
+    cursor: pointer;
+}
+#group{
+    position: absolute;
+    width: 11%;
+    left: 77%;
+    padding: 13px;
+    cursor: pointer;
+}
+
+#x{
+   position: absolute;
+   font-size: 20pt;
+   margin-top: 12px;
+   left:72%; 
+   cursor: pointer;
+}
+
+#pos{
+    position: absolute;
+    bottom: 98%;
+}

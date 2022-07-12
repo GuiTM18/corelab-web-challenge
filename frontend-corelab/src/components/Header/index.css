@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+h1 {
+    position: absolute;
+    color: rgb(11, 11, 11);
+    font-size: 45px;
+    margin-left: 32%;
+    font-family: 'Lato', sans-serif;
+    margin-top: 20px;
+}

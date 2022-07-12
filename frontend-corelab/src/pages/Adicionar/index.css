@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+#area{
+position: fixed;
+padding: 6%;
+width: 30%;
+height: 74%;
+left: 28%;
+
+background: #ECECEC;
+}
+
+
+#input{
+    position: relative;
+    background-color: white;
+    border: none;
+    width: 77%;
+    height: 7%;
+    border-radius: 100px;
+    font-style:italic;
+    font-size:20px;
+    left: 10%;
+    bottom: 17%;
+    
+}
+
+#inputA{
+    position: relative;
+    background-color: white;
+    border: none;
+    width: 30%;
+    height: 7%;
+    border-radius: 100px;
+    font-style:italic;
+    font-size:20px;
+    left: 10%;
+    bottom: 16%;
+}
+
+#inputB{
+    position: relative;
+    background-color: white;
+    border: none;
+    width: 33%;
+    height: 7%;
+    border-radius: 100px;
+    font-style:italic;
+    font-size:20px;
+    left: 53%;
+    bottom: 35.5%;
+}
+
+h3{ 
+    position: relative;
+    font-family: 'Lato', sans-serif;
+    left: 13%;
+    bottom: 14%;
+    font-size: 16pt;
+}
+
+#HA{
+    position: relative;
+    bottom: 33%;
+    left: 55%;
+}
+
+#HB{
+        position: relative;
+        bottom: 33%;
+        left: 13%;
+   
+}
+
+
+
+#desc{
+    position: relative;
+    width: 77%;
+    height: 18%;
+    left: 10%;
+    bottom: 35%;
+    border: none;
+    border-radius: 8px;
+    font-style:italic;
+    font-size:20px;
+}
+
+button{
+    font-size: 18px;
+    font-weight: bold;
+    position: absolute;
+    left: 66%;
+    bottom: 6%;
+    width: 20%;
+    height: 7%;
+    background: rgba(101, 220, 199, 0.8);
+    border-radius: 100px;
+    border: none;
+    cursor: pointer;
+}

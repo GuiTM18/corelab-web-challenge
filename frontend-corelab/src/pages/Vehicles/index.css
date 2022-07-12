@@ -1,0 +1,12 @@
+tbody{
+    display: inline-block;
+    
+
+    justify-content: space space-between;
+}
+#anuncio{
+    position: absolute;
+    left: 112%;
+    cursor: pointer;
+    width: 6.5%;
+    }
