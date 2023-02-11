@@ -1,8 +1,8 @@
 # DesafioCorelab
 
-## Projeto Criação de uma aplicação web que vai consumir uma API para gerenciar o CRUD de veículos.
+## Projeto de Criação de uma aplicação web que vai consumir uma API para gerenciar o CRUD de veículos.
 
-### No pojeto foi desenvolvido o Backend o Frontend e o Banco de Dados(Cloud), foi iniciado do 0 para que eu conseguisse treinar meu fullStack e foi usado as seguintes tecnologias
+### O projeto foi desenvolvido o Frontend o Backend e o Banco de Dados(Cloud), no qual foi divido em duas pastas no meu repositório, essa pasta está dedicada ao Frontend, o projeto foi iniciado do 0 para que eu conseguisse treinar meu fullStack, na qual utilizei as seguintes tecnologias:
 
 ### Frontend:
 
